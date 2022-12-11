@@ -19,7 +19,7 @@ Locations: Vilnius-Minsk
 The Central Botanical Gardens of NAN of Belarus:
 -	Clonal micropropagation of plants (herbal, rare economically valuable, decorative);
 -	Conducting biochemical research and data processing;
--	Writing scientific articles and newspaper publications; 
+-	Writing scientific articles and newspaper publications - https://www.sb.by/lapchatka-belorusskoe-chudo.html
 -	Participation in international scientific projects.
 
 # Еducation
@@ -51,6 +51,7 @@ International Sakharov Ecological University (Minsk, Belarus);
 Russian - Native
 
 Belarussian, German - Basic
+
 
 
 # P.S.
